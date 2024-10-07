@@ -4,7 +4,7 @@ Data analysis on the lifecycle and sustainability of EV batteries
 # EV Battery Lifecycle & Sustainability Project
 
 ## Project Objective
-The purpose of this project is to analyze the lifecycle and sustainability of electric vehicle (EV) batteries. We will focus on [your chosen topic].
+The purpose of this project is to analyze the lifecycle and sustainability of electric vehicle (EV) batteries. We will focus on Raw Material Mining & Environmental Impact:.
 
 ## Project Structure
 - **data/**: This folder contains the datasets for analysis.
