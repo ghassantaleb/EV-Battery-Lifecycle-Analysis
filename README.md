@@ -11,9 +11,3 @@ The purpose of this project is to analyze the lifecycle and sustainability of el
 - **notebooks/**: Jupyter notebooks for data exploration and analysis.
 - **src/**: Python scripts for data processing and analysis.
 - **results/**: Folder for storing the outputs of the analysis, including plots and reports.
-
-## Getting Started
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/EV-Battery-Lifecycle-Analysis.git
-cd EV-Battery-Lifecycle-Analysis
